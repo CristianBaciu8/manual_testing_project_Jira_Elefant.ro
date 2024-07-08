@@ -1,0 +1,1 @@
+# manual_testing_project_Jira_Elefant.ro
